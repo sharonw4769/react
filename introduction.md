@@ -26,6 +26,6 @@ For example:
 
 ![Example](https://www.ibm.com/developerworks/library/wa-react-intro/figure1.png)
 
-2. Also, ~~feel free to~~ TRY out the code and see what happens. Use Codecademy and follow the tutorials. Make observations! 
+2. Also, ~~feel free to~~ TRY out the code and see what happens. Also, make observations because it may help you understand! 
 
 3. Do not give up! No one knows everything so just try to atleast learn something new everyday. 
