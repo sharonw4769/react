@@ -8,6 +8,7 @@ When I started learning web design, I really enjoyed working with HTML, CSS and 
 * In fact, it is a ***representation*** of a DOM object, meaning the virtual DOM does not have the power to directly make any changes. In other words, when there are any changes made on the DOM in REACT, the virtual DOM will update automaticall and then the changes get updated on the "real" HTML DOM, causing the screen to make those changes.
 
 HTML DOM:
+
 ![Document Object Model](https://camo.githubusercontent.com/6ded8f7e56da0bd98cd58f59cc7920b1ccfbd036/687474703a2f2f7777772e74757872616461722e636f6d2f66696c65732f4c58463131382e7475745f6772656173652e6469616772616d2e706e67)
 
 The HTML DOM uses different element [atrributes and methods](https://www.w3schools.com/jsref/dom_obj_all.asp). 
