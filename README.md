@@ -1,6 +1,6 @@
 # REACT Independent Study
 ## Table of contents
-[Entry 1: Introduction](react/introduction.md)<br>
+[Entry 1: Introduction](introduction.md)<br>
 [Entry 2:]<br>
 [Entry 3:]<br>
 [Entry 4:]<br>
