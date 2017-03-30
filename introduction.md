@@ -1,5 +1,5 @@
 # Entry 1: Introduction to REACT.js
-When I started learning web design, I really enjoyed working with HTML, CSS and JavaScript. Specifically, JavaScript because it was a challenging topic. So, I decided that I would give it another try and dive deeper into a new JavaScript library in order to take on my own challenge. My goal? To create an application 
+When I started learning web design, I really enjoyed working with HTML, CSS and JavaScript. Specifically, JavaScript because it was a challenging topic. So, I decided that I would give it another try and dive deeper into a new JavaScript library in order to take on my own challenge. My goal? To create an application/website 
 ### What is REACT.js? 
 * REACT is a JavaScript library used for **U**ser **I**nterfaces (**UI**): the interactions between the user and the computer/software. <br>
 * REACT was developed at Facebook and is used by their company as well as at Instagram. In fact, Instagram.com is written ***entirely*** using REACT. 
