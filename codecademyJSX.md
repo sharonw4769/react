@@ -1,6 +1,6 @@
-# Entry 2: Codecademy Tutorial 
+# Entry 2: Codecademy Tutorial on JSX
 
-### Breakdown of REACT JSX
+### Breakdown of JSX
 Example of a JavaScript file:
 `var h1 = <h1>Hello world</h1>;`
 
