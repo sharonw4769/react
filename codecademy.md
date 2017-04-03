@@ -7,7 +7,7 @@ Example of a JavaScript file:
 ```<h1>Hello world</h1>``` 
 (This portion is actually not HTML, it is JSX.)
 * JSX is **not** valid JavaScript.
-* When a JavasScript file includes JSX, the JSX will be translated into regular JavaScript.
+* When a JavaScript file includes JSX, the JSX will be translated into regular JavaScript.
 * JSX elements (JavaScript expressions) can be set to a variable, used in a function, stored in an object or array, and etc. 
 
 JSX Attribute is written like this (similar to HTML): ```attribute-name="attribute-value"```
@@ -20,7 +20,7 @@ ReactDOM.render(
   document.getElementById('app')
   );
 ```
-**Once again, manipulating the DOM is slow whereas manipulating the virtual DOM is faster since nothing is changed onscreen.**
+**Once again, manipulating the DOM is slow whereas manipulating the virtual DOM is faster since nothing is changed on screen.**
 
 * JSX requires slashes!! (e.g. Instead of ```<br>,``` use ```<br/>```)
 * Use { } to run JavaScript 
@@ -52,7 +52,8 @@ When the ```if``` statement is on the outside → no need for curly brackets or 
 
 
 JSX: 
-```var h1 = <h1>Hello world</h1>;
+```
+var h1 = <h1>Hello world</h1>;
 can be rewritten without JSX, like this:
 ```
 WITHOUT JSX:
