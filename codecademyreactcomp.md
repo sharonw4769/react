@@ -20,4 +20,26 @@ var instructions = {
 * A render function **must** have a return statement.
 
 ### How does JSX and React work together?
-First of all, a multi-line JSX expression needs to be wrapped in parentheses! 
+First of all, a multi-line JSX expression needs to be wrapped in parentheses. 
+
+The term `this` is used very often. Similar to Ruby, it refers back to a specific object being passed by React.createClass. 
+
+```javascript
+var MyName = React.createClass({
+	// name property goes here:
+name: 'Sharon',
+
+  render: function () {
+    return <h1>My name is {this.name}.</h1>;
+  }
+});
+
+ReactDOM.render(<MyName />, document.getElementById('app'));
+```
+
+### What I Learned + Takeaways
+* Double check that curly brackets, semi-colons, and parentheses are in the right place.
+* Draw out or refer to a visual diagram that can help you understand the process. For me, I related back to Mr. Mueller's object orientation diagram.
+
+
+
