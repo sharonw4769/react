@@ -51,11 +51,11 @@ How to attach as an event handler? Attach any event handler to a JSX element by 
 Using `{this.props.children}` will list. 
 
 ##### Dynamic Information 
-The two ways to access dynamic info: `props` and `state`. 
+The two ways to access dynamic info: `props` (can be shared with different components) and `state` (private). 
 ```javascript
 var Example = React.createClass({
-  getInitialState: function () { #getInitialState returns an object
-    return { mood: 'decent' }; #has a state of mood
+  getInitialState: function () { //getInitialState returns an object
+    return { mood: 'decent' }; //has a state of mood
   },
 ```
 In order to read a component's state, use the expression `this.state.name-of-property`

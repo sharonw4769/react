@@ -11,7 +11,7 @@
 * A render function has to be included in an object and the render function must include a *return statement*. 
 ```javascript
 var instructions = {
-  render: function () { #"instructions object" 
+  render: function () { //"instructions object" 
     return <h1>Hello world</h1>;
   }
 };
