@@ -17,7 +17,10 @@ To break it down further..
 ###### Credits: https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc
 
 ##### My Plans 
-Inspired by [Tom Clarkson](https://github.com/TomClarkson/hanzi-gold)'s Hanzi Gold App, I plan on creating a similar application but instead of chinese characters, the user gets to learn the alphabets in sign language. 
+Inspired by [Tom Clarkson](https://github.com/TomClarkson/hanzi-gold)'s Hanzi Gold App, I plan on creating a similar application but instead of chinese characters, the user gets to learn the alphabet and numbers in sign language. There will be a provided letter/number with an image of someone showing it in sign language. 
+
+I created a wireframe to show what I want my application to look like: 
+![app](/pictures/app.JPG)
 
 ### What I Learned + Takeaways
-* Always sketch out your application/ using a format/layout/structure that works best for you! 
+* Always sketch out your application/ using a format/layout/structure that works best for you! This way, you can visually see what you can change and tweak to create the best app. 
