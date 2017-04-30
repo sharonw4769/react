@@ -1,6 +1,6 @@
 # Entry 5:
 For this entry, I will be thinking about possible application ideas that I can create using React.JS/React Native and noting down my plan. 
-##### Example of an "APP"
+#### Example of an "APP"
 **[Click here](https://facebook.github.io/react-native/showcase.html) to see a few apps that are using REACT**
 
 ![example](https://cdn-images-1.medium.com/max/800/1*jKHL1tfIYyZ5lIXvmRwa9g.png)
@@ -16,7 +16,7 @@ To break it down further..
 
 ###### Credits: https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc
 
-##### My Plans 
+#### My Plans 
 Inspired by [Tom Clarkson](https://github.com/TomClarkson/hanzi-gold)'s Hanzi Gold App, I plan on creating a similar application but instead of Chinese characters, the user gets to learn the alphabet and numbers in sign language. There will be a provided letter/number with an image of someone showing it in sign language. 
 
 I created a wireframe to show what I want my application to look like: 
