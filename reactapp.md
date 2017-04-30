@@ -19,7 +19,7 @@ To break it down further..
 #### My Plans 
 Inspired by [Tom Clarkson](https://github.com/TomClarkson/hanzi-gold)'s Hanzi Gold App, I plan on creating a similar application but instead of Chinese characters, the user gets to learn the alphabet and numbers in sign language. There will be a provided letter/number with an image of someone showing it in sign language. 
 
-I created a wireframe to show what I want my application to look like: 
+I created a [wireframe](http://snappy.appypie.com/user) to show what I want my application to look like: 
 
 ![app](/pictures/app.JPG)
 
