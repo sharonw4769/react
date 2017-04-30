@@ -23,7 +23,7 @@ I created a wireframe to show what I want my application to look like:
 
 ![app](/pictures/app.JPG)
 
-To break it down into components, the overall app is the **main** component. Each icon and its content will be the **child** components. 
+To break it down into components, the overall app is the **main** component (red box). Each icon and its content will be the **child** components (green boxes). 
 ### Takeaways
 * First step to creating an application: 
     *  Like Mr. Mueller always says, "create a minimum viable product (MVP) first." There are no apps out there that is perfect, which is why there are updates and changes made every once in a while.
