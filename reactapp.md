@@ -31,6 +31,6 @@ To break it down into components, the overall app is the **main** component (red
 ![MVP](/pictures/MVP.png)
 
 * My advice: 
-    * Always sketch out your application/ using a format/layout/structure that works best for you! This way, you can visually see what you can change and tweak to create the best possible app. 
+    * Always sketch out your application using a format/layout/structure that works best for you! This way, you can visually see what you can change and tweak to create the best possible app. 
     * Annotate the different features on your product so that it can help you and your users better understand the purpose of certain parts. 
 * Lastly, have fun building whatever it is! It can possibly change the world whether you know it or not so show off those ideas and be proud of it! 
