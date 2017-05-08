@@ -1,4 +1,4 @@
-# Entry 5:
+# Entry 5: Application Plan
 For this entry, I will be thinking about possible application ideas that I can create using React.JS/React Native and noting down my plan. 
 #### Example of an "APP"
 **[Click here](https://facebook.github.io/react-native/showcase.html) to see a few apps that are using REACT**

@@ -5,7 +5,7 @@
 [Entry 3: Codecademy Tutorial on React Components](codecademyreactcomp.md)<br>
 [Entry 4: Codecademy Tutorial on Component Interactions](codecademycomponentsinteractions.md)<br>
 [Entry 5: Application Idea](reactapp.md)<br>
-[Entry 6:]<br>
+[Entry 6: Building the App](buildingtheapp.md)<br>
 [Entry 7:]<br>
 [Entry 8:]<br>
 [Entry 9:]<br>
