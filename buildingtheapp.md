@@ -12,7 +12,7 @@ Here is a preview of the app:
 
 And here is the code:
 
-![chewbaccacode](/pictures/chewbaccacode.JPG)
+![chewbaccacode](/pictures/chewbaccacode.JPG) 
 
 I played around with the code and soon after, I got the idea of what to do with my app. 
 
