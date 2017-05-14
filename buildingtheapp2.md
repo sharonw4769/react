@@ -1,4 +1,4 @@
-# Entry 7: Building the Application (Cont'd)
+# Entry 7: Building the App (Cont'd)
 ### Plans
 This week, I will be taking my own pictures for my app. I will be using http://www.lifeprint.com/ as my resource. This way, I can learn some sign language myself while teaching others! 
 
