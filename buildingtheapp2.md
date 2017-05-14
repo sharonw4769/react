@@ -10,4 +10,4 @@ I worked on creating the home page which will consist of the goal of this app an
 
 ### Takeaways
 * Building this app taught me a lot.. 
-    * I learned some basic sign language just by simply taking the time to look online and trying it out myself. 
+    * I learned some basic sign language just by simply taking the time to look online and trying it out myself.  
