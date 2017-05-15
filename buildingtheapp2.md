@@ -6,10 +6,12 @@ Currently, I have created two pages, one for **LESSON 1: Numbers** and one for *
 
 ![number](/pictures/number.PNG) ![abc](/pictures/abc.PNG) 
 
-I also created the home page which will consist of the goal of this app and instructions on how to use the app. 
+I also created the **Home Page** which will consist of the goal of this app and instructions on how to use the app. 
 
 ![Homepage](/pictures/Homepage.PNG)
 
+Something I learned while coding  **Home Page**: 
+* {"\n"} means "enter" or putting a link break, which is similar to the HTML `<br>` tag. 
 ### My Next Steps 
 - [ ] Try to incorporate the three links (Lesson 1: Number 1), (Lesson 2: Letter A) and (Home Page) I currently have created into one file
 - [ ] Finish building the 'quiz','poll' and 'about us' links
