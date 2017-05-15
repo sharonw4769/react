@@ -4,6 +4,8 @@ This week, I will be taking my own pictures for my app. I will be using http://w
 
 Currently, I have created two pages, one for **LESSON 1: Numbers** and one for **LESSON 2: ABCs**. 
 
+![abc](/pictures/abc.PNG) ![number](/pictures/number.PNG)
+
 I worked on creating the home page which will consist of the goal of this app and instructions on how to use the app. 
 
 ![Homepage](/pictures/Homepage.PNG)

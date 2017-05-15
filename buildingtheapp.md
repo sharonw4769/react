@@ -23,7 +23,7 @@ I started off with 'Hello World!' to make sure that I can preview it on my phone
 
 After several hours of tinkering and looking for certain parts of the code like how to align text and add an image, my app came out to look like this: 
 
-![Finished!](/pictures/Finished!.png)
+![number](/pictures/number.PNG)
 ### Takeaways
 * Remember, explore around and LOYO - Learn On Your Own! Do what it takes to help you better understand the material. Personally, I like to test things out and try to understand certain portions of the code and its purpose. 
 * Taking a look at the code of an existing application is very helpful, especially when you notice certain parts of the code. This will help you understand even better because once you get the idea of what the app does, you can process the code and even apply it to your own app. 
