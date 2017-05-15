@@ -11,6 +11,11 @@ I also created the home page which will consist of the goal of this app and inst
 ![Homepage](/pictures/Homepage.PNG)
 
 ### My Next Steps 
+- [ ] Try to incorporate the three links (Lesson 1: Number 1), (Lesson 2: Letter A) and (Home Page) I currently have created into one file
+- [ ] Finish building the 'quiz','poll' and 'about us' links
+- [ ] Put everything together and work with what I have 
+
+Motive: I want to start off by creating a minimum viable product to see if the application can function the way I imagined. Then, I can add more to the lessons. 
 
 ### Takeaways
 * Building this app taught me a lot.. 
