@@ -7,5 +7,5 @@
 [Entry 5: Application Idea](reactapp.md)<br>
 [Entry 6: Building the App](buildingtheapp.md)<br>
 [Entry 7: Building the App (Cont'd)](buildingtheapp2.md)<br>
-[Entry 8:]<br>
+[Entry 8: Minimum Viable Product](final.md)<br>
 [Entry 9:]<br>
