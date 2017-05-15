@@ -1,5 +1,5 @@
 # Entry 8: Minimum Viable Product
-![new](/pictures/new.jpg)
+![new](/pictures/new.png)
 
 - [x] HOME PAGE
 - [x] NUMBERS
