@@ -4,14 +4,18 @@ Goal:
 
 ![new1](/pictures/new1.png)
 
-
+- [x] Home Page
+- 
 ![Homepage](/pictures/Homepage.PNG)
+
+- [x] Numbers
+
 ![number](/pictures/number.PNG) 
+
+- [x] ABCs
 ![abc](/pictures/abc.PNG) 
 
-- [x] Home Page
-- [x] Numbers
-- [x] ABCs 
+
 - [x] Quiz 
 - [x] Poll
 - [x] About Us
