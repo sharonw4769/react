@@ -1,22 +1,22 @@
 # Entry 8: Minimum Viable Product
 ### What I Have So Far
-Goal: 
+#### Goal: 
 
 ![new1](/pictures/new1.png)
 
-### - [x] Home Page
+- [x] Home Page
 
 ![Homepage](/pictures/Homepage.PNG)
 
-### - [x] Numbers
+- [x] Numbers
 
 ![number](/pictures/number.PNG) 
 
-### - [x] ABCs
+- [x] ABCs
 
 ![abc](/pictures/abc.PNG) 
 
 
-###- [x] Quiz 
-### - [x] Poll
-### - [x] About Us
+- [x] Quiz 
+- [x] Poll
+- [x] About Us
