@@ -6,17 +6,7 @@
 ---
 ### What I Have So Far
 
-- [x] **Home Page**
-
-![Homepage](/pictures/Homepage.PNG)
-
-- [x] **Numbers**
-
-![number](/pictures/number.PNG) 
-
-- [x] **ABCs**
-
-![abc](/pictures/abc.PNG) 
+![1](/pictures/1.JPG)
 
 
 - [x] **Quiz** 
