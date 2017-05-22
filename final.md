@@ -6,14 +6,22 @@
 ---
 ### What I Have So Far
 
-![1](/pictures/1.JPG)
+![allthree](/pictures/allthree.JPG)
 
 - [x] **Quiz** 
+- 
+![1](/pictures/1.JPG)
+
 - [x] **Poll**
+- 
+![2](/pictures/2.JPG)
+
 - [x] **About Us**
+- 
+![3](/pictures/3.JPG)
 
 ### My Struggles
-My biggest struggle is finding a source that can teach me how to add a quiz component for the multiple choice quiz page. I found [this JSfiddle link](http://jsfiddle.net/seesyong/dwa1v229/) with an example of the component but I am not sure how to add it into my code. So, as of right now, the way to solve this is to do what I know just so I do not mess up any previous code. Instead of the 'radio' quiz component, I will be numbering the choices instead. 
+My biggest struggle is finding a source that can teach me how to add a quiz component for the multiple choice quiz page. I found [this JSfiddle link](http://jsfiddle.net/seesyong/dwa1v229/) with an example of the component but I am not sure how to add it into my code. So, as of right now, the way to solve this is to do what I know just so I do not mess up any previous code. Instead of the 'radio' quiz component, I will be lettering the choices instead. 
 
 ### Next Steps 
 - [ ] Figure how to add the radio component for the QUIZ page
