@@ -9,15 +9,15 @@
 ![allthree](/pictures/allthree.JPG)
 
 - [x] **Quiz** 
-- 
+
 ![1](/pictures/1.JPG)
 
 - [x] **Poll**
-- 
+
 ![2](/pictures/2.JPG)
 
 - [x] **About Us**
-- 
+
 ![3](/pictures/3.JPG)
 
 ### My Struggles
