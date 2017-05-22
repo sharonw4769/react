@@ -8,16 +8,17 @@
 
 ![1](/pictures/1.JPG)
 
-
 - [x] **Quiz** 
 - [x] **Poll**
 - [x] **About Us**
 
 ### My Struggles
-
+My biggest struggle is finding a source that can teach me how to add a quiz component for the multiple choice quiz page. I found [this JSfiddle link](http://jsfiddle.net/seesyong/dwa1v229/) with an example of the component but I am not sure how to add it into my code. So, as of right now, the way to solve this is to do what I know just so I do not mess up any previous code. Instead of the 'radio' quiz component, I will be numbering the choices instead. 
 
 ### Next Steps 
-
+- [ ] Figure how to add the radio component for the QUIZ page
+- [ ] Try to incorporate all links into one file
+- [ ] Find a way to present my app without requiring the QR scanner (Expo)
 
 ### My Advice & Takeaways 
 * Take a look at existing applications because you might find some inspiration here and there. I was originally inspired by [Tom Clarkson](https://github.com/dierat/learn_hanzi)'s app but I also looked at other apps to see what I can add or change. 
