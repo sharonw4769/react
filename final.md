@@ -16,7 +16,7 @@
 
 ![2](/pictures/2.JPG)
 
-- [x] **About Us**
+- [x] **About Us** 
 
 ![3](/pictures/3.JPG)
 
