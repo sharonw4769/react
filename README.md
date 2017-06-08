@@ -7,4 +7,6 @@
 [Entry 5: Application Idea](reactapp.md)<br>
 [Entry 6: Building the App](buildingtheapp.md)<br>
 [Entry 7: Building the App (Cont'd)](buildingtheapp2.md)<br>
-[Entry 8: Minimum Viable Product](final.md)<br>
+[Entry 8: Minimum Viable Product](final.md)<br><br>
+[Link to Presentation](https://docs.google.com/a/hstat.org/presentation/d/1nEg97mZ9krwj6IgoQ_uENehwn04osJH_aXLSxtp8XT4/edit?usp=sharing)<br>
+[Link to MVP App]()
